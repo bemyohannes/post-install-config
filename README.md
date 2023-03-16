@@ -53,7 +53,7 @@ You can create and assign an unlimited number of roles to Agents with access to 
 -	Click Add New Department
 
 <p>
-<img src="https://imgur.com/a/N1JCdVs" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a/N1JCdVs" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
