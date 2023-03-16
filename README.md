@@ -29,10 +29,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<h1>Configure Roles</h1>
+<h3>Configure Roles</h3>
+
+Roles are the permissions granted to Agents (employees) for the Departments they have access to. 
+
+
+Login to osTicket and make sure it says Agent Panel (located in the top right corner – if you see Agent Panel that means you are in Admin Panel and if you see Admin Panel it means you are in Agent Panel). You will need to complete the below steps from Admin Panel, so make sure you see Agent Panel.
+
+-	From within Admin Panel click Agents tab >
+-	Click Roles >
+-	Click Add New Role
+
+You can create and assign an unlimited number of roles to Agents with access to various departments.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6qQtIK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
