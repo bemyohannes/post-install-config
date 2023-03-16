@@ -48,11 +48,9 @@ You can create and assign an unlimited number of roles to Agents with access to 
 
 <h3>Configure Departments</h3>
 
-<p>
 -	From within Admin Panel click Agents tab >
 -	Click Departments >
 -	Click Add New Department
-</p>
 
 <p>
 <img src="https://imgur.com/a/N1JCdVs" height="80%" width="80%" alt="Disk Sanitization Steps"/>
