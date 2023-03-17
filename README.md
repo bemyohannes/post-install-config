@@ -40,7 +40,7 @@ Login to osTicket and make sure it says Agent Panel (located in the top right co
 -	Click Roles >
 -	Click Add New Role
 
-You can create and assign an unlimited number of roles to Agents with access to various departments and also set permissions for the roles
+You can create and assign an unlimited number of roles to Agents with access to various departments and also set permissions for the roles.
 
 <p>
 <img src="https://i.imgur.com/v8SThbB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -54,7 +54,7 @@ You can create and assign an unlimited number of roles to Agents with access to 
 -	Click Departments >
 -	Click Add New Department
 
-Because tickets are routed through the various Departments in the help desk, there are many settings that can be set for each Department
+Because tickets are routed through the various Departments in the help desk, there are many settings that can be set for each Department.
 
 <p>
 <img src="https://i.imgur.com/hU98eFk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -64,13 +64,13 @@ Because tickets are routed through the various Departments in the help desk, the
 
 <h3>Configure Teams</h3>
 
-Teams are groups of agents from different departments that handle particular issues or users
+Teams are groups of agents from different departments that handle particular issues or users.
 
 -	From within Admin Panel click Agents tab >
 -	Click Teams >
 -	Click Add New Team
 
-You can fill out the appropriate information and add agents from various departments as team members 
+You can fill out the appropriate information and add agents from various departments as team members.
 
 <p>
 <img src="https://i.imgur.com/Ys4rbRT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -80,13 +80,13 @@ You can fill out the appropriate information and add agents from various departm
 
 <h3>Configure Agents (employees)</h3>
 
-Agents are the employees that respond to and resolve tickets
+Agents are the employees that respond to and resolve tickets.
 
 -	From within Admin Panel click Agents tab >
 -	Click Agents >
 -	Click Add New Agent
 
-You will need to assign your agents to a Primary Department and give them Primary Roles for the tickets/tasks routed to that department 
+You will need to assign your agents to a Primary Department and give them Primary Roles for the tickets/tasks routed to that department. 
 
 <p>
 <img src="https://i.imgur.com/RrtJnQ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
