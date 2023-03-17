@@ -43,7 +43,7 @@ Login to osTicket and make sure it says Agent Panel (located in the top right co
 You can create and assign an unlimited number of roles to Agents with access to various departments.
 
 <p>
-<img src="https://i.imgur.com/6qQtIK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v8SThbB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>Configure Departments</h3>
@@ -53,7 +53,7 @@ You can create and assign an unlimited number of roles to Agents with access to 
 -	Click Add New Department
 
 <p>
-<img src="https://i.imgur.com/EGGu5D4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hU98eFk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
