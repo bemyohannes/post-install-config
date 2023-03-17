@@ -21,8 +21,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles
 - Configure Departments
 - Configure Teams
-- Configure Agents
-- Configure Users
+- Configure Agents (employees)
+- Configure Users (customers)
 - Configure Service Level Agreements (SLAs)
 - Configure to allow anyone to create tickets
 - Configure Roles
@@ -40,7 +40,7 @@ Login to osTicket and make sure it says Agent Panel (located in the top right co
 -	Click Roles >
 -	Click Add New Role
 
-You can create and assign an unlimited number of roles to Agents with access to various departments.
+You can create and assign an unlimited number of roles to Agents with access to various departments and also set permissions for the roles
 
 <p>
 <img src="https://i.imgur.com/v8SThbB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -52,30 +52,79 @@ You can create and assign an unlimited number of roles to Agents with access to 
 -	Click Departments >
 -	Click Add New Department
 
+Because tickets are routed through the various Departments in the help desk, there are many settings that can be set for each Department
+
 <p>
 <img src="https://i.imgur.com/hU98eFk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>Configure Teams</h3>
 
+Teams are groups of agents from different departments that handle particular issues or users
+
 -	From within Admin Panel click Agents tab >
 -	Click Teams >
 -	Click Add New Team
+
+You can fill out the appropriate information and add agents from various departments as team members 
 
 <p>
 <img src="https://i.imgur.com/Ys4rbRT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h3>Configure Agents</h3>
+<h3>Configure Agents (employees)</h3>
+
+Agents are the employees that respond to and resolve tickets
 
 -	From within Admin Panel click Agents tab >
 -	Click Agents >
 -	Click Add New Agent
 
+You will need to assign your agents to a Primary Department and give them Primary Roles for the tickets/tasks routed to that department 
+
 <p>
 <img src="https://i.imgur.com/RrtJnQ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h3>Configure Users (customers)</h3>
+
+Users are the creators of the tickets in the help desk. Users are associated with their email address, which serves as their unique identifier when creating a ticket, in the User Directory of the help desk. 
+
+-	From within Agent Panel (remember to make sure you see Admin Panel, which means you are in Agent Panel) click Users tab >
+-	Click Add User
+
+<p>
+<img src="https://i.imgur.com/ynTfg4E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h3>Configure Service Level Agreements (SLAs)</h3>
+
+SLAs are used to define the timeline that agents have to complete and close open tickets.
+
+-	From within Admin Panel (make sure you see Agent Panel) click Manage tab >
+-	Click SLA >
+-	Click Add New SLA Plan
+
+<p>
+<img src="https://i.imgur.com/Wq3xXjn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h3>Configure Help Topics</h3>
+
+Help Topics will allow users to identify the kinds of issues associated with their tickets and they will also determine to which Department the tickets will be sent.
+
+-	From within Admin Panel click Manage tab >
+-	Click Help Topics >
+-	Click Add New Help Topic
+
+<p>
+<img src="https://i.imgur.com/vWCz5q3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<p>
+<img src="https://i.imgur.com/Wq3xXjn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <h3>Configure to allow anyone to create tickets</h3>
 
 -	From within Admin Panel click Settings tab >
