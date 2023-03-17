@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Agents
 - Configure Users
 - Configure Service Level Agreements (SLAs)
-- Configure Roles
+- Configure to allow anyone to create tickets
 - Configure Roles
 
 <h2>Configuration Steps</h2>
@@ -66,6 +66,26 @@ You can create and assign an unlimited number of roles to Agents with access to 
 <img src="https://i.imgur.com/Ys4rbRT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h3>Configure Agents</h3>
+
+-	From within Admin Panel click Agents tab >
+-	Click Agents >
+-	Click Add New Agent
+
+<p>
+<img src="https://i.imgur.com/RrtJnQ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h3>Configure to allow anyone to create tickets</h3>
+
+-	From within Admin Panel click Settings tab >
+-	Click Users >
+-	Within Users Settings, under Authentication Settings, make sure Registration Required is unchecked
+
+<p>
+<img src="https://i.imgur.com/vOAJ151.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <br />
 
 <p>
@@ -77,7 +97,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RrtJnQ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
