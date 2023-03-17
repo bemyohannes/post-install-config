@@ -56,6 +56,16 @@ You can create and assign an unlimited number of roles to Agents with access to 
 <img src="https://i.imgur.com/hU98eFk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h3>Configure Teams</h3>
+
+-	From within Admin Panel click Agents tab >
+-	Click Teams >
+-	Click Add New Team
+
+<p>
+<img src="https://i.imgur.com/Ys4rbRT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <br />
 
 <p>
