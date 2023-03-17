@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+Hi there and welcome! This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -26,7 +26,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Service Level Agreements (SLAs)
 - Configure to allow anyone to create tickets
 
-<br />
 
 <h2>Configuration Steps</h2>
 
@@ -47,7 +46,7 @@ You can create and assign an unlimited number of roles to Agents with access to 
 <img src="https://i.imgur.com/v8SThbB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<br />
+
 
 <h3>Configure Departments</h3>
 
@@ -61,7 +60,7 @@ Because tickets are routed through the various Departments in the help desk, the
 <img src="https://i.imgur.com/hU98eFk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<br />
+
 
 <h3>Configure Teams</h3>
 
@@ -77,7 +76,7 @@ You can fill out the appropriate information and add agents from various departm
 <img src="https://i.imgur.com/Ys4rbRT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<br />
+
 
 <h3>Configure Agents (employees)</h3>
 
@@ -93,7 +92,7 @@ You will need to assign your agents to a Primary Department and give them Primar
 <img src="https://i.imgur.com/RrtJnQ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<br />
+
 
 <h3>Configure Users (customers)</h3>
 
@@ -106,7 +105,7 @@ Users are the creators of the tickets in the help desk. Users are associated wit
 <img src="https://i.imgur.com/ynTfg4E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<br />
+
 
 <h3>Configure Service Level Agreements (SLAs)</h3>
 
@@ -120,7 +119,7 @@ SLAs are used to define the timeline that agents have to complete and close open
 <img src="https://i.imgur.com/Wq3xXjn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<br />
+
 
 <h3>Configure Help Topics</h3>
 
@@ -134,7 +133,7 @@ Help Topics will allow users to identify the kinds of issues associated with the
 <img src="https://i.imgur.com/vWCz5q3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<br />
+
 
 <h3>Configure to allow anyone to create tickets</h3>
 
@@ -146,4 +145,4 @@ Help Topics will allow users to identify the kinds of issues associated with the
 <img src="https://i.imgur.com/vOAJ151.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<br />
+
