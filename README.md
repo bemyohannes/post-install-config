@@ -121,10 +121,6 @@ Help Topics will allow users to identify the kinds of issues associated with the
 <img src="https://i.imgur.com/vWCz5q3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-
-<p>
-<img src="https://i.imgur.com/Wq3xXjn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <h3>Configure to allow anyone to create tickets</h3>
 
 -	From within Admin Panel click Settings tab >
